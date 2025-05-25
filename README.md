@@ -23,7 +23,7 @@
 Используемые источники:
 
 - [Туториал по созданию текстового редактора на python](http://instructables.com/Create-a-Simple-Python-Text-Editor/)
-- [Туториал по созданию текстового редактора на python (видео)](https://learn.microsoft.com/ru-ru/dotnet/desktop/wpf/xaml/)
+- [Туториал по созданию текстового редактора на python (видео)](https://www.youtube.com/watch?v=xqDonHEYPgA&ab_channel=MakeWithData)
 - [Пример текстового редактора](https://ya.zerocoder.ru/pgt-sobstvennyj-tekstovyj-redaktor-na-python-delaem-krasivo/)
 - [Обсуждения насчет текстового редактора](https://www.reddit.com/r/Python/comments/ptpkbz/a_text_editor_in_python/?tl=ru)
 - [Еще примеры текстового редактора](https://sergsergius.ru/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B9-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/)
